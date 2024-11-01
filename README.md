@@ -4,7 +4,9 @@
 - Estudante Técnico em Desenvolvimento de Sistemas SENAI
 - Java Script e C# ASP.NET MVC
 - Banco de Dados MySQL
-- Contato: samara.raissa20@gmail.com
+- Contato:
+Email: samara.raissa20@gmail.com
+Telefone: (31)99103-0978
 
  
   
